@@ -1,1 +1,2 @@
-game.Players.LocalPlayer:Kick("osora L")
+while true do 
+end
